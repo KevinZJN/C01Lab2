@@ -1,0 +1,11 @@
+{
+  "name": "c01w24lab2",
+  "version": "1.0.0",
+  "description": "<div align=\"right\"> </div>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
